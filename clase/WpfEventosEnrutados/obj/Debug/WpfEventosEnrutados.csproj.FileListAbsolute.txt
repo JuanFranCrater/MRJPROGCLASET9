@@ -1,0 +1,13 @@
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\bin\Debug\WpfEventosEnrutados.exe.config
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\bin\Debug\WpfEventosEnrutados.exe
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\bin\Debug\WpfEventosEnrutados.pdb
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\WpfEventosEnrutados.csprojResolveAssemblyReference.cache
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\MainWindow.baml
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\MainWindow.g.cs
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\App.g.cs
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\WpfEventosEnrutados_MarkupCompile.cache
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\WpfEventosEnrutados.g.resources
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\WpfEventosEnrutados.Properties.Resources.resources
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\WpfEventosEnrutados.csproj.GenerateResource.Cache
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\WpfEventosEnrutados.exe
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfEventosEnrutados\obj\Debug\WpfEventosEnrutados.pdb

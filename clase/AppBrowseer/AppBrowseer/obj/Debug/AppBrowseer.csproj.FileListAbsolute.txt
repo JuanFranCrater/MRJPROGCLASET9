@@ -1,0 +1,16 @@
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\bin\Debug\AppBrowseer.exe.manifest
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\bin\Debug\AppBrowseer.xbap
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\bin\Debug\AppBrowseer.exe
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\bin\Debug\AppBrowseer.pdb
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\Page1.baml
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\Page1.g.cs
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\App.g.cs
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\AppBrowseer_MarkupCompile.cache
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\AppBrowseer.g.resources
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\AppBrowseer.Properties.Resources.resources
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\AppBrowseer.csproj.GenerateResource.Cache
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\AppBrowseer.TrustInfo.xml
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\AppBrowseer.exe.manifest
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\AppBrowseer.xbap
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\AppBrowseer.exe
+D:\Usuario\Escritorio\AppBrowseer\AppBrowseer\obj\Debug\AppBrowseer.pdb

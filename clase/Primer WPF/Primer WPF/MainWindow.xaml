@@ -1,0 +1,20 @@
+﻿<Window x:Class="Primer_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnPulsame" HorizontalAlignment="Left" Margin="25,187,0,0" VerticalAlignment="Top" Width="194" Click="Button_Click_1" Height="109" MouseEnter="btnPulsame_MouseEnter" GotKeyboardFocus="btnPulsame_GotKeyboardFocus" Background="Blue">
+            <DockPanel>
+                <TextBlock Text="Hola" FontFamily="Impact" FontSize="50" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Height="58" Width="105" Foreground="Red">
+                </TextBlock>
+            </DockPanel>
+        </Button>
+        <Button Margin="18,30,298,160">
+            <Button.Background>
+                <SolidColorBrush Color="Red"/>
+                
+            </Button.Background>
+        </Button>
+        <Rectangle x:Name="rectMueveme" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="96" Margin="10,118,0,0" Stroke="Black" VerticalAlignment="Top" Width="8" KeyDown="rectMueveme_KeyDown"/>
+    </Grid>
+</Window>

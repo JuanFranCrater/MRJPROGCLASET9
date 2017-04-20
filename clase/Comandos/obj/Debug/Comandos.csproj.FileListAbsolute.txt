@@ -1,0 +1,13 @@
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\bin\Debug\Comandos.exe.config
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\bin\Debug\Comandos.exe
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\bin\Debug\Comandos.pdb
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\Comandos.csprojResolveAssemblyReference.cache
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\MainWindow.baml
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\MainWindow.g.cs
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\App.g.cs
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\Comandos_MarkupCompile.cache
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\Comandos.g.resources
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\Comandos.Properties.Resources.resources
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\Comandos.csproj.GenerateResource.Cache
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\Comandos.exe
+C:\Users\dprimenko\Documents\git\Relacion 9\Comandos\obj\Debug\Comandos.pdb

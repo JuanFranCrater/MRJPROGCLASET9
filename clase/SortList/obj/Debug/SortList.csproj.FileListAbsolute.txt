@@ -1,0 +1,13 @@
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\bin\Debug\SortList.exe.config
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\bin\Debug\SortList.exe
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\bin\Debug\SortList.pdb
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\SortList.csprojResolveAssemblyReference.cache
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\MainWindow.baml
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\MainWindow.g.cs
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\App.g.cs
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\SortList_MarkupCompile.cache
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\SortList.g.resources
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\SortList.Properties.Resources.resources
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\SortList.csproj.GenerateResource.Cache
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\SortList.exe
+D:\Usuario\Mis documentos\ \3Trimestre\SortList\obj\Debug\SortList.pdb

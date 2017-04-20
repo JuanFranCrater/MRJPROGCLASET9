@@ -1,0 +1,16 @@
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\bin\Debug\Primer WPF.exe.config
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\bin\Debug\Primer WPF.exe
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\bin\Debug\Primer WPF.pdb
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\Primer WPF.csprojResolveAssemblyReference.cache
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\MainWindow.baml
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\MainWindow.g.cs
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\App.g.cs
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\Primer WPF_MarkupCompile.cache
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\Primer WPF.g.resources
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\Primer_WPF.Properties.Resources.resources
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\Primer WPF.csproj.GenerateResource.Cache
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\Primer WPF.exe
+D:\Usuario\Escritorio\Primer WPF\Primer WPF\obj\Debug\Primer WPF.pdb
+D:\Usuario\Mis documentos\ \3Trimestre\Primer WPF\Primer WPF\bin\Debug\Primer WPF.exe.config
+D:\Usuario\Mis documentos\ \3Trimestre\Primer WPF\Primer WPF\obj\Debug\Primer WPF.exe
+D:\Usuario\Mis documentos\ \3Trimestre\Primer WPF\Primer WPF\obj\Debug\Primer WPF.pdb

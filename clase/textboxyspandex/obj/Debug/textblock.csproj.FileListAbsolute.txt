@@ -1,0 +1,13 @@
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\bin\Debug\textboxyspandex.exe.config
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\bin\Debug\textboxyspandex.exe
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\bin\Debug\textboxyspandex.pdb
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\textblock.csprojResolveAssemblyReference.cache
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\MainWindow.baml
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\MainWindow.g.cs
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\App.g.cs
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\textboxyspandex_MarkupCompile.cache
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\textboxyspandex.g.resources
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\textboxyspandex.Properties.Resources.resources
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\textblock.csproj.GenerateResource.Cache
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\textboxyspandex.exe
+D:\Usuario\Mis documentos\ \3Trimestre\textboxyspandex\obj\Debug\textboxyspandex.pdb

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Balon_rebota.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Canvas x:Name="campo" Background="GreenYellow" HorizontalAlignment="Left" Height="240" Margin="60,10,0,0" VerticalAlignment="Top" Width="400">
+        <Image x:Name="bola" Source="Imagenes\football-37462_640.png" Height="30" Canvas.Left="87" Width="30" RenderTransformOrigin="-0.152,0.474" Canvas.Top="179" >
+            </Image>
+            <Image x:Name="bola2" Source="Imagenes\football-37462_640.png" Height="30" Canvas.Left="312" Width="30" RenderTransformOrigin="-0.152,0.474" Canvas.Top="200" >
+            </Image>
+        </Canvas>
+        <Button x:Name="btnInicio" Content="Iniciar" HorizontalAlignment="Left" Height="32" Margin="60,278,0,0" VerticalAlignment="Top" Width="90" Click="Inicio"/>
+        <Button x:Name="btnPausa" Content="Pausar" HorizontalAlignment="Left" Height="32" Margin="370,278,0,0" VerticalAlignment="Top" Width="90" Click="Pausa"/>
+        <Label  x:Name ="pos" Content="" HorizontalAlignment="Left" Height="32" Margin="214,278,0,0" VerticalAlignment="Top" Width="86"/>
+
+
+    </Grid>
+</Window>

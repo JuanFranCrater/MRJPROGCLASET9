@@ -1,0 +1,35 @@
+﻿<Window x:Class="ButtonsTry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="219*"/>
+            <RowDefinition Height="101*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="Down" Content="7" FontFamily="Webdings" HorizontalAlignment="Left" Margin="413,69,0,0" VerticalAlignment="Top" Width="32" Height="29" Click="Abajo" Cursor="Arrow" RenderTransformOrigin="0.5,0.5" Grid.Row="1">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-89.979"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="Left" Content="7" FontFamily="Webdings" HorizontalAlignment="Left" Margin="381,40,0,0" VerticalAlignment="Top" Width="32" Height="29" RenderTransformOrigin="0.215,-0.19" Click="Izquierda" Grid.Row="1"/>
+        <Button x:Name="Up" Content="7" FontFamily="Webdings" HorizontalAlignment="Left" Margin="413,11,0,0" VerticalAlignment="Top" Width="32" Height="29" Click="Arriba" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.349"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="Right" Content="8" FontFamily="Webdings" HorizontalAlignment="Left" Margin="445,40,0,0" VerticalAlignment="Top" Width="32" Height="29" Click="Derecha" Grid.Row="1"/>
+        <Rectangle x:Name="caja" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="24" Margin="229,132,0,0" Stroke="Black" VerticalAlignment="Top" Width="28"/>
+
+    </Grid>
+</Window>

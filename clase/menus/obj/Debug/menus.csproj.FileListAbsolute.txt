@@ -1,0 +1,13 @@
+D:\Usuario\Mis documentos\ \3Trimestre\menus\bin\Debug\menus.exe.config
+D:\Usuario\Mis documentos\ \3Trimestre\menus\bin\Debug\menus.exe
+D:\Usuario\Mis documentos\ \3Trimestre\menus\bin\Debug\menus.pdb
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\menus.csprojResolveAssemblyReference.cache
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\MainWindow.baml
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\MainWindow.g.cs
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\App.g.cs
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\menus_MarkupCompile.cache
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\menus.g.resources
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\menus.Properties.Resources.resources
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\menus.csproj.GenerateResource.Cache
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\menus.exe
+D:\Usuario\Mis documentos\ \3Trimestre\menus\obj\Debug\menus.pdb

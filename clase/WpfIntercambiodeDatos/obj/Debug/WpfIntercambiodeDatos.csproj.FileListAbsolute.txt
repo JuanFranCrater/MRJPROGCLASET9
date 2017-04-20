@@ -1,0 +1,15 @@
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\bin\Debug\WpfIntercambiodeDatos.exe.config
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\WpfIntercambiodeDatos.csprojResolveAssemblyReference.cache
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\MainWindow.baml
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\MainWindow.g.cs
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\App.g.cs
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\WpfIntercambiodeDatos_MarkupCompile.cache
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\WpfIntercambiodeDatos.g.resources
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\WpfIntercambiodeDatos.Properties.Resources.resources
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\WpfIntercambiodeDatos.csproj.GenerateResource.Cache
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\bin\Debug\WpfIntercambiodeDatos.exe
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\bin\Debug\WpfIntercambiodeDatos.pdb
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\VentanaDestino.baml
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\VentanaDestino.g.cs
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\WpfIntercambiodeDatos.exe
+C:\Users\dprimenko\Documents\git\Relacion 9\WpfIntercambiodeDatos\obj\Debug\WpfIntercambiodeDatos.pdb

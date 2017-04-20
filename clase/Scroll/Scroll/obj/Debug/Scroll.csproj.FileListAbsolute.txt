@@ -1,0 +1,13 @@
+D:\Usuario\Escritorio\Scroll\Scroll\bin\Debug\Scroll.exe.config
+D:\Usuario\Escritorio\Scroll\Scroll\bin\Debug\Scroll.exe
+D:\Usuario\Escritorio\Scroll\Scroll\bin\Debug\Scroll.pdb
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\Scroll.csprojResolveAssemblyReference.cache
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\MainWindow.baml
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\MainWindow.g.cs
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\App.g.cs
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\Scroll_MarkupCompile.cache
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\Scroll.g.resources
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\Scroll.Properties.Resources.resources
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\Scroll.csproj.GenerateResource.Cache
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\Scroll.exe
+D:\Usuario\Escritorio\Scroll\Scroll\obj\Debug\Scroll.pdb

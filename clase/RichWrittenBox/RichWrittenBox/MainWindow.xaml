@@ -1,0 +1,18 @@
+﻿<Window x:Class="RichWrittenBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <RichTextBox HorizontalAlignment="Left" Height="300" Margin="10" VerticalAlignment="Top" Width="300">
+            <FlowDocument>
+                <Paragraph>
+                        Hola Caracola
+                </Paragraph>
+                <Paragraph FontSize="40" FontStyle="Italic" TextAlignment="Center" Foreground="CadetBlue">
+                        Hola Caracola
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

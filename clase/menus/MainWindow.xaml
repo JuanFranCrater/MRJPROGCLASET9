@@ -1,0 +1,59 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="menus.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Icon="imagen/Euro_1_cent.png">
+    <Window.ContextMenu>
+        <ContextMenu>
+            <MenuItem Header="Acciones"/>
+            <MenuItem Header="Acciones"/>
+            <MenuItem Header="Acciones"/>
+        </ContextMenu>
+    </Window.ContextMenu>
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="517">
+            <MenuItem>
+                <MenuItem.Header>_Archivo</MenuItem.Header>
+                <MenuItem Header="_new" >
+                    <StackPanel>
+                        
+                    </StackPanel>
+                    <MenuItem.Icon>
+                        <Image Source="imagen/Euro_1_cent.png" Height="24" Width="19"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="_open"/>
+                <MenuItem Header="_save"/>
+                <Separator/>
+                <MenuItem Header="_exit"/>
+            </MenuItem>
+            <MenuItem>
+                <MenuItem.Header>_Opciones</MenuItem.Header>
+                <MenuItem Header="_new"/>
+                <MenuItem Header="_open"/>
+                <MenuItem Header="_save"/>
+                <Separator/>
+                <MenuItem Header="_exit"/>
+            </MenuItem>
+
+            <MenuItem>
+                <MenuItem.Header>Otras O_pciones</MenuItem.Header>
+                <MenuItem Header="new"/>
+                <MenuItem Header="open"/>
+                <MenuItem Header="save"/>
+                <Separator/>
+                <MenuItem Header="exit"/>
+            </MenuItem>
+        </Menu>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="10,97,0,0" VerticalAlignment="Top" Width="75">
+            <Button.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Boton1"/>
+                    <MenuItem Header="Boton2"/>
+                    <MenuItem Header="Boton3"/>
+                </ContextMenu>
+            </Button.ContextMenu>
+        </Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\bin\Debug\ejdemuchos.exe.config
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\bin\Debug\ejdemuchos.exe
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\bin\Debug\ejdemuchos.pdb
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\obj\Debug\MainWindow.baml
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\obj\Debug\MainWindow.g.cs
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\obj\Debug\App.g.cs
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\obj\Debug\ejdemuchos_MarkupCompile.cache
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\obj\Debug\ejdemuchos.g.resources
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\obj\Debug\ejdemuchos.Properties.Resources.resources
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\obj\Debug\ejdemuchos.csproj.GenerateResource.Cache
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\obj\Debug\ejdemuchos.exe
+D:\Usuario\Escritorio\ejdemuchos\ejdemuchos\obj\Debug\ejdemuchos.pdb
