@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfEnlaceDAtoDirecto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="110,60,0,0" Name="tbxOrigen" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="110,143,0,0" TextWrapping="Wrap" Text="{Binding ElementName=tbxOrigen, Path=Text, Mode=Default}" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
