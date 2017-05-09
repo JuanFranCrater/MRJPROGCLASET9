@@ -1,0 +1,16 @@
+C:\Users\dprimenko\Documents\git\Relacion 9\Enlace a Datos2\bin\Debug\Enlace a Datos2.exe.config
+D:\Usuario\Escritorio\Enlace a Datos2\bin\Debug\Enlace a Datos2.exe.config
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2.csprojResolveAssemblyReference.cache
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\MainWindow.g.cs
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\App.g.cs
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2_MarkupCompile.cache
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2_MarkupCompile.lref
+D:\Usuario\Escritorio\Enlace a Datos2\bin\Debug\Enlace a Datos2.exe
+D:\Usuario\Escritorio\Enlace a Datos2\bin\Debug\Enlace a Datos2.pdb
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\MainWindow.baml
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2.g.resources
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace_a_Datos2.Properties.Resources.resources
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2.csproj.GenerateResource.Cache
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2.exe
+D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2.pdb

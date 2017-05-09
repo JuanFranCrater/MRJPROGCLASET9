@@ -1,0 +1,15 @@
+D:\Usuario\Escritorio\WpfEnlaceADatos\bin\Debug\WpfEnlaceADatos.exe.config
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\WpfEnlaceADatos.csprojResolveAssemblyReference.cache
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\App.g.cs
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\WpfEnlaceADatos_MarkupCompile.cache
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\MainWindow.g.cs
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\WpfEnlaceADatos_MarkupCompile.lref
+D:\Usuario\Escritorio\WpfEnlaceADatos\bin\Debug\WpfEnlaceADatos.exe
+D:\Usuario\Escritorio\WpfEnlaceADatos\bin\Debug\WpfEnlaceADatos.pdb
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\MainWindow.baml
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\WpfEnlaceADatos.g.resources
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\WpfEnlaceADatos.Properties.Resources.resources
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\WpfEnlaceADatos.csproj.GenerateResource.Cache
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\WpfEnlaceADatos.exe
+D:\Usuario\Escritorio\WpfEnlaceADatos\obj\Debug\WpfEnlaceADatos.pdb
