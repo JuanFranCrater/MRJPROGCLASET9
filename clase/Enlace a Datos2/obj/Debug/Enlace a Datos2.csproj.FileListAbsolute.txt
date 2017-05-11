@@ -14,3 +14,6 @@ D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace_a_Datos2.Properties.Resou
 D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2.csproj.GenerateResource.Cache
 D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2.exe
 D:\Usuario\Escritorio\Enlace a Datos2\obj\Debug\Enlace a Datos2.pdb
+C:\Users\dprimenko\Documents\git\ClaseProg\clase\Enlace a Datos2\bin\Debug\Enlace a Datos2.exe.config
+C:\Users\dprimenko\Documents\git\ClaseProg\clase\Enlace a Datos2\obj\Debug\Enlace a Datos2.exe
+C:\Users\dprimenko\Documents\git\ClaseProg\clase\Enlace a Datos2\obj\Debug\Enlace a Datos2.pdb
