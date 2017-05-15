@@ -10,9 +10,22 @@
         </LinearGradientBrush>
     </Window.Background>
     <Window.Resources>
-        <Style TargetType="{x:Type Label}">
+        <Style x:Key="Sombra" TargetType="{x:Type FrameworkElement}">
+            <Setter Property="BitmapEffect" >
+                <Setter.Value>
+                    <DropShadowBitmapEffect ShadowDepth="1.8" Color="Gray" Direction="360" Softness="0.2"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="Cabecera" TargetType="{x:Type Label}" BasedOn="{StaticResource Sombra}">
             <Setter Property="FontFamily" Value="Candara"/>
-            <Setter Property="FontSize" Value="17" />
+            <Setter Property="FontSize" Value="25" />
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+        <Style  TargetType="{x:Type Label}" BasedOn="{StaticResource Cabecera}">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontSize" Value="15" />
             <Setter Property="HorizontalAlignment" Value="Right"/>
         </Style>
     </Window.Resources>
@@ -28,7 +41,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <Label Grid.Column="0" Grid.Row="0" FontSize="20" Content="Cambio de contraseña"  VerticalAlignment="Top" />
+        <Label Style="{StaticResource Cabecera}" Grid.Column="0" Grid.Row="0" FontSize="20" Content="Cambio de contraseña"  VerticalAlignment="Top" />
         <Label Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" Content="Contraseña anterior" />
         <Label Grid.Row="2" Grid.Column="0" Content="Contraseña Nueva" VerticalAlignment="Top"/>
         <Label Grid.Row="3" Grid.Column="0" VerticalAlignment="Top" Content="Confirmar"/>
